@@ -1,14 +1,12 @@
 ################################################
 RSA Chat Messenger
 Topics in Network Security MiniProject
-Made By:
-Alon Arbel 205730849
-Yonatan Shimoni 318543824
-Eldad Sasportas 208546465
 ################################################
 Before running the project make sure
 that JVM and JAVA 19 JDK is installed properly.
 The code was written on Windows machine.
+################################################
+Note: Debugged on Intellij thus to run properly open the folder EncryptedChat in the IDE.
 ################################################
 To run the project:
 1.Run the ChatServer.java First using JVM and the 
@@ -23,5 +21,7 @@ and public keys.*
 commuincate with others in the room.
 4.To disconnect a client type "BYE".
 ################################################
+
+
 
 
